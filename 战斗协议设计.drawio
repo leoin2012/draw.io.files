@@ -1,1 +1,76 @@
-<mxfile host="www.draw.io" modified="2019-11-06T14:47:12.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="4JNfS8iwn-Ffn6d-Duhn" version="12.2.0" type="github" pages="1"><diagram id="Mo6LBxmEk3bTkz5pxvHl" name="第 1 页">5Vpdb5swFP01fqwUbAz2I5B0e+mkrQ/dHimYgEowJU6T7NfPBueDxGkzrcAiEikx5/qLew7X9hUABYvNlyos0wcesxzASbwBaAogdNyJ/FXAtgFs222AeZXFDWQdgMfsN9OgbjdfZTFbtioKznORlW0w4kXBItHCwqri63a1hOftUctwzs6AxyjMz9GnLBZpgxLoHvCvLJunu5EthzaWRbirrO9kmYYxXx9BaAZQUHEumtJiE7Bc+W7nl6bd/QXrfmIVK8RVDWbRr5/fX39Z3hNmwgse8hjd6V7ewnylbxhAJ5f9+QmX3cpZi612hfO64jvD3bImypMVLLvcHIyyNK//ZxgQAuhUFTwXEIk4NUIUQgPge3WdABD8jYss2e4GlnfQjK17apy3nwas+KqImbopS5rXaSbYYxlGyrqWEpRYKha5NidZngc851XdFsWYkdiW+FJU/IUdWQh8Ro6zH++NVYJtLnra2vMndc/4golKzn+iG0CsKdeahxN9vT4oyHI0lh6pB2ks1KKd77s+8CoLmtq/oNm9SPOyDIt/pNkD3qQuSKbxOc0/2OsRtc14HVCbYPU1UevUH31LR3jz6Yhy5A5MORmS8mU5QspdNDDltDPKjwgmFBAZ1QnwLOARZfIDQO2zGN4d60kCo8jEeuw8O7ijGI6soWP4bgKdPNGSQzJprdVUElsj1Ad0VhcmUgWjjObIHjqaW5c3aj2SD2ZU1ZQhQEUEafJ7fOz/L0WQoYO9BTtUxEe0jzIK2HDwJQANyHkdKSjw7+sAAYE3HevDb+PBlwO7RyGMbatn08FjO+5+J18v8tQFMxf4knBUI1NA73ukl0TMTO8zwbZkpRN6MRo8jDsGek/8ukzDUhWjVZVv/SqMXpj42MFtNiouQpHxQl2ST/LmfhF8L7dlcqbVlTMNiQ5zqvEkHVknH6lz5nnpG9H2alueBS/YiZY1FObZXDk7Z4nqQfk5i8Lc0/Aii2M1iJHEA3OfRZR9ShQ2EGVgCnYme1N+4lZlb9tXyR6jjpwJDdkAGcq9ab1lkzu1mUrOXZGrG43+HVOg6lP/0HSGv1H9G9NhfYb9ne8uhf0LacqxqB1ZQ0d7aDqr3qrasXWV2i2Eu/Km4cB3zZl9JHK3J4YTeb9yNx3ZblTuNoUDB3fDAemKxMRo1E4HV7vphYIbVbsxH9Cr2t89wV7M04xF7Rh1t5WRl4cXsGrb0VtsaPYH</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-06T14:48:08.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="e2OU9v3bWPbW_X2vUcjZ" version="12.2.0" type="github" pages="1">
+  <diagram id="Mo6LBxmEk3bTkz5pxvHl" name="第 1 页">
+    <mxGraphModel dx="1172" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="1EcYXQqY1AW5etACMld3-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;初始战场包Notify&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="250" y="200" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;加入战场Req&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="250" y="237" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-8" value="&lt;span style=&quot;font-size: 14px&quot;&gt;加入战场Rsp&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="250" y="273" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;战前表演Notify&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="310" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;开始新回合选招Req&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="250" y="347" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-11" value="&lt;span style=&quot;font-size: 14px&quot;&gt;开始新回合选招Notify&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="250" y="383" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;回合选招Req&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="250" y="420" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-13" value="&lt;span style=&quot;font-size: 14px&quot;&gt;回合选招广播Notify&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="250" y="457" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-14" value="&lt;span style=&quot;font-size: 14px&quot;&gt;回合表演Notify&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="250" y="493" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-15" value="&lt;span style=&quot;font-size: 14px&quot;&gt;战斗结束Notify&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="250" y="530" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=180;" parent="1" vertex="1">
+          <mxGeometry x="420" y="200" width="10" height="31" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-18" value="战场初始化" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="205" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=180;" parent="1" vertex="1">
+          <mxGeometry x="420" y="244" width="10" height="53" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-20" value="等待加入战场" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="260" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=180;" parent="1" vertex="1">
+          <mxGeometry x="420" y="310" width="10" height="31" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-22" value="战前表演" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="315" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=180;" parent="1" vertex="1">
+          <mxGeometry x="420" y="351" width="10" height="135" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-24" value="回合选招" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="407" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=180;" parent="1" vertex="1">
+          <mxGeometry x="420" y="492" width="10" height="31" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-26" value="回合表演" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="497" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=180;" parent="1" vertex="1">
+          <mxGeometry x="420" y="530" width="10" height="31" as="geometry"/>
+        </mxCell>
+        <mxCell id="1EcYXQqY1AW5etACMld3-28" value="战斗结束" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="535" width="100" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
