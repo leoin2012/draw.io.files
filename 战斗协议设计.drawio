@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-08T14:17:48.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="6z2PUWKnr8if3GkNg3as" version="12.2.0" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-08T14:19:06.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="IMkZux1VdOrR2HXQPux-" version="12.2.0" type="github" pages="3">
   <diagram id="Mo6LBxmEk3bTkz5pxvHl" name="第 1 页">
     <mxGraphModel dx="808" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,9 +124,6 @@
         <mxCell id="-TiF2f3TWj4qQbBdXk7X-1" parent="-TiF2f3TWj4qQbBdXk7X-0"/>
         <mxCell id="tZGGWpFwiEsTafJwINTU-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;异步加载入场资源&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-TiF2f3TWj4qQbBdXk7X-1">
           <mxGeometry x="-400" y="196" width="160" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="tZGGWpFwiEsTafJwINTU-28" value="&lt;table border=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 1&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 2&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 4&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 5&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Value 7&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 8&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Value 9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;overflow=fill;rounded=0;shadow=0;glass=0;comic=0;align=left;fontColor=#333333;" vertex="1" parent="-TiF2f3TWj4qQbBdXk7X-1">
-          <mxGeometry x="-660" y="1250" width="180" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="tZGGWpFwiEsTafJwINTU-29" value="&lt;span style=&quot;font-size: 14px&quot;&gt;同步使用资源入场表演&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="-TiF2f3TWj4qQbBdXk7X-1">
           <mxGeometry x="-400" y="238" width="160" height="30" as="geometry"/>
