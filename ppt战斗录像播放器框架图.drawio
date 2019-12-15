@@ -1,1 +1,120 @@
-<mxfile host="www.draw.io" modified="2019-12-15T13:16:52.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.4.2" etag="sCKoKtuGl18SeuzVS9tq" type="github" pages="1"><diagram id="rBwII-8od3Iu58Jp_hPn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-15T16:04:26.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="DmVky771iWW1kmwmVyHC" version="12.4.2" type="github" pages="1">
+  <diagram id="rBwII-8od3Iu58Jp_hPn" name="第 1 页">
+    <mxGraphModel dx="1808" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="18EafaTd0Z_206U8gu5t-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="190" width="630" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-31" target="18EafaTd0Z_206U8gu5t-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="80" width="270" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-21" target="18EafaTd0Z_206U8gu5t-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="257" y="80" width="270" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-1" target="18EafaTd0Z_206U8gu5t-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-1" target="18EafaTd0Z_206U8gu5t-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;录像管理器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.988;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-3" target="18EafaTd0Z_206U8gu5t-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-3" target="18EafaTd0Z_206U8gu5t-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-3" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ffffff&quot;&gt;录像文件管理器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-4" target="18EafaTd0Z_206U8gu5t-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-4" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;录像播放器&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-5" target="18EafaTd0Z_206U8gu5t-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="260"/>
+              <mxPoint x="370" y="380"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-5" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;战场包构建器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-6" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;ProboBuf/BASE64格式&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;本地&lt;/font&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;录像文件&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-7" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;战斗文字播报器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="407" y="350" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-11" value="&lt;font color=&quot;#666666&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;ProtoBuf格式&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;服务器&lt;/span&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;录像数据&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="327" y="120" width="130" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-12" target="18EafaTd0Z_206U8gu5t-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-12" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;网络模块&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="170" y="460" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="18EafaTd0Z_206U8gu5t-13" target="18EafaTd0Z_206U8gu5t-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-13" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;战斗模块&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-15" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;录像上传下载器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="230" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-23" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#666666&quot;&gt;开发调试录像/战斗录像大厅&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="80" width="220" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-32" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;服务器排行榜录像&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="327" y="75" width="130" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-35" value="&lt;font color=&quot;#666666&quot;&gt;根据表演事件产生&lt;br&gt;战斗文字播报&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="373.93" y="480" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-37" value="&lt;font color=&quot;#666666&quot;&gt;跳转回合时，生成该回合战场包&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="327" y="310" width="172.14" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-38" value="&lt;font color=&quot;#6c8ebf&quot; style=&quot;font-size: 16px&quot;&gt;战斗录像核心模块&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="402" y="200" width="130" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-42" value="&lt;font color=&quot;#666666&quot;&gt;录制/模拟数据包&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="423" width="105" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-44" value="&lt;font color=&quot;#666666&quot;&gt;播放录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-45" value="&lt;font color=&quot;#666666&quot;&gt;获取列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-46" value="&lt;font color=&quot;#666666&quot;&gt;播放/保存录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="310" width="105" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-48" value="&lt;font color=&quot;#666666&quot;&gt;遍历本地录像文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="100" y="186" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-49" value="&lt;font color=&quot;#666666&quot;&gt;上传/下载录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="76" y="250" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="18EafaTd0Z_206U8gu5t-52" value="&lt;font color=&quot;#666666&quot;&gt;逐回合请求&lt;br&gt;录像数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="83" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
