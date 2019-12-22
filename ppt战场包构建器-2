@@ -1,1 +1,109 @@
-<mxfile host="www.draw.io" modified="2019-12-21T15:45:52.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.4.3" etag="AvX4RzpANzZLa8KOLRrj" type="github" pages="1"><diagram id="4Hy4H9Cn3kOOjKJ4_iQr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-22T16:24:35.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YpFwoyxvbeZnxufWBalm" version="12.4.3" type="github" pages="1">
+  <diagram id="4Hy4H9Cn3kOOjKJ4_iQr" name="第 1 页">
+    <mxGraphModel dx="2249" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-92" value="&lt;font color=&quot;#666666&quot;&gt;第50回合战场包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="340" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-91" value="&lt;font color=&quot;#666666&quot;&gt;第1回合战场包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="230" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-57" value="&lt;font color=&quot;#666666&quot;&gt;退出战场包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-58" value="&lt;font color=&quot;#666666&quot;&gt;入场战场包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-59" value="&lt;font color=&quot;#666666&quot;&gt;入场表演包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="30" y="157" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-60" value="&lt;font color=&quot;#666666&quot;&gt;...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="193" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-61" value="&lt;font color=&quot;#666666&quot;&gt;...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="303" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-62" value="&lt;font color=&quot;#666666&quot;&gt;第1回合表演包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="30" y="267" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-63" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-64" value="&lt;font color=&quot;#666666&quot;&gt;...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="413" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-65" value="&lt;font color=&quot;#666666&quot;&gt;第50回合表演包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="30" y="377" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-67" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;录像文件块 - 优化后&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="494" width="160" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-80" value="&lt;font color=&quot;#666666&quot;&gt;退出战场包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="450" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-81" value="&lt;font color=&quot;#666666&quot;&gt;入场战场包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="120" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-82" value="&lt;font color=&quot;#666666&quot;&gt;入场表演包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="157" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-83" value="&lt;font color=&quot;#666666&quot;&gt;...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="193" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-84" value="&lt;font color=&quot;#666666&quot;&gt;...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="303" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-85" value="&lt;font color=&quot;#666666&quot;&gt;第1回合表演包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="267" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-87" value="&lt;font color=&quot;#666666&quot;&gt;...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="413" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-88" value="&lt;font color=&quot;#666666&quot;&gt;第50回合表演包&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="377" width="160" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-90" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px&quot;&gt;录像文件块 - 优化前&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="494" width="160" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-96" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-601.3024324324324" y="166.09302325581396" width="139.16108108108108" height="313.1162790697674" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-97" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-413.1086486486486" y="279.1627906976744" width="139.16108108108108" height="200.04651162790697" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-98" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;录像文件大小&lt;br&gt;优化前&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-633.44" y="501.6" width="203.44" height="17.4" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-99" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;录像文件大小&lt;br&gt;优化后&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="501.6" width="192.94" height="17.4" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-102" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px&quot;&gt;726KB&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-601.3024324324324" y="174.7906976744186" width="139.16108108108108" height="17.3953488372093" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-103" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px&quot;&gt;474KB&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-413.1086486486486" y="287.8604651162791" width="139.16108108108108" height="17.3953488372093" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-104" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px&quot;&gt;100%&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-601.3024324324324" y="137" width="139.16108108108108" height="17.3953488372093" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-105" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px&quot;&gt;65%&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-413.1086486486486" y="252.67906976744186" width="139.16108108108108" height="17.3953488372093" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-108" value="&lt;font color=&quot;#666666&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;50回合的5人pvp战斗&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="80" width="250" height="17.4" as="geometry"/>
+        </mxCell>
+        <mxCell id="6IgafmNeP6_n6WPpLA_F-109" value="" style="endArrow=none;html=1;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-640" y="479" as="sourcePoint"/>
+            <mxPoint x="-230" y="479" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
