@@ -1,9 +1,18 @@
-<mxfile host="www.draw.io" modified="2020-01-26T14:32:01.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="nU0ELRFeUz7AZtIkasJV" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-27T17:52:27.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="WigRjA-a02V6OZwty-iF" version="12.5.8" type="github">
   <diagram id="rBwII-8od3Iu58Jp_hPn" name="第 1 页">
-    <mxGraphModel dx="2839" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3016" dy="649" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9C9C9;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="185" y="1008" width="234" height="414" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-157" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-104" target="1h4kW-eVLY-6i_dEA7Pz-111">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-104" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 16px&quot;&gt;战斗录像大厅&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;line-height: 200% ; font-size: 12px&quot; color=&quot;#ffcccc&quot;&gt;ProtoBuf格式录像文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B85450;strokeColor=#5E2B29;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="442.9999999999999" y="1122" width="156" height="50" as="geometry"/>
+        </mxCell>
         <mxCell id="18EafaTd0Z_206U8gu5t-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-80" y="190" width="630" height="240" as="geometry"/>
         </mxCell>
@@ -117,7 +126,7 @@
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-8" target="1h4kW-eVLY-6i_dEA7Pz-20">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-8" target="1h4kW-eVLY-6i_dEA7Pz-66">
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-159" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-8" target="1h4kW-eVLY-6i_dEA7Pz-66">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-8" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;战斗录像&lt;br&gt;核心模块&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=#303030;fontColor=#333333;" vertex="1" parent="1">
@@ -127,6 +136,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-610" y="575" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-165" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-13" target="1h4kW-eVLY-6i_dEA7Pz-66">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-13" target="1h4kW-eVLY-6i_dEA7Pz-38">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-13" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;录像调试播放器&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=#455B7A;" vertex="1" parent="1">
           <mxGeometry x="-850" y="545" width="120" height="60" as="geometry"/>
@@ -146,14 +161,11 @@
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-30" value="&lt;font color=&quot;#666666&quot;&gt;播放录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-724" y="565" width="60" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-38" target="1h4kW-eVLY-6i_dEA7Pz-13">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-38" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 16px&quot;&gt;Web服务器&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px ; line-height: 160%&quot; color=&quot;#dae8fc&quot;&gt;BASE64格式录像文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=#455B7A;" vertex="1" parent="1">
-          <mxGeometry x="-972.86" y="430" width="162.86" height="60" as="geometry"/>
+          <mxGeometry x="-871.43" y="436" width="162.86" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-44" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1028.57" y="330" width="77.1400000000001" height="90" as="geometry"/>
+          <mxGeometry x="-927.1399999999999" y="336" width="77.1400000000001" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-41" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1h4kW-eVLY-6i_dEA7Pz-44">
           <mxGeometry x="25.23" y="20" width="26.67" height="40" as="geometry"/>
@@ -165,13 +177,13 @@
           <mxGeometry x="-931.4299999999998" y="300" width="77.1400000000001" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-47" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1h4kW-eVLY-6i_dEA7Pz-45">
-          <mxGeometry x="26.66" y="34" width="26.67" height="40" as="geometry"/>
+          <mxGeometry x="128.09" y="40" width="26.67" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-46" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;客户端B&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=#455B7A;" vertex="1" parent="1h4kW-eVLY-6i_dEA7Pz-45">
-          <mxGeometry x="1.43" y="74" width="77.14" height="30" as="geometry"/>
+          <mxGeometry x="102.86" y="80" width="77.14" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-831.43" y="330" width="77.1400000000001" height="90" as="geometry"/>
+          <mxGeometry x="-729.9999999999999" y="336" width="77.1400000000001" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-50" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1h4kW-eVLY-6i_dEA7Pz-48">
           <mxGeometry x="25.23" y="20" width="26.67" height="40" as="geometry"/>
@@ -181,51 +193,149 @@
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-46" target="1h4kW-eVLY-6i_dEA7Pz-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-891.5517241379309" y="419.75862068965523" as="targetPoint"/>
+            <mxPoint x="-790.1217241379309" y="425.75862068965523" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-49" target="1h4kW-eVLY-6i_dEA7Pz-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-850.8620689655172" y="419.75862068965523" as="targetPoint"/>
+            <mxPoint x="-749.4320689655171" y="425.75862068965523" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-39" target="1h4kW-eVLY-6i_dEA7Pz-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-932.2413793103449" y="419.75862068965523" as="targetPoint"/>
+            <mxPoint x="-830.8113793103448" y="425.75862068965523" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-59" value="&lt;font color=&quot;#666666&quot;&gt;上传/下载录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-893" y="507" width="80" height="20" as="geometry"/>
+          <mxGeometry x="-830" y="510" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-60" target="1h4kW-eVLY-6i_dEA7Pz-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-60" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 16px&quot;&gt;服务器排行榜录像&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;line-height: 150%&quot; size=&quot;1&quot; color=&quot;#ffcccc&quot;&gt;&lt;sup style=&quot;line-height: 198%&quot;&gt;ProtoBuf格式协议数据包&lt;/sup&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B85450;strokeColor=#5E2B29;" vertex="1" parent="1">
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-60" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 16px&quot;&gt;战斗录像大厅&lt;/span&gt;&lt;br style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#ffcccc&quot; style=&quot;line-height: 24px&quot;&gt;ProtoBuf格式录像文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B85450;strokeColor=#5E2B29;" vertex="1" parent="1">
           <mxGeometry x="-396" y="506" width="156" height="65" as="geometry"/>
         </mxCell>
         <mxCell id="1h4kW-eVLY-6i_dEA7Pz-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-61" target="1h4kW-eVLY-6i_dEA7Pz-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-61" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 16px&quot;&gt;战斗录像大厅&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;line-height: 200% ; font-size: 12px&quot; color=&quot;#ffcccc&quot;&gt;ProtoBuf格式录像文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B85450;strokeColor=#5E2B29;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-61" value="&lt;span style=&quot;font-size: 16px&quot;&gt;排行榜录像&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font color=&quot;#ffcccc&quot; style=&quot;line-height: 18px&quot;&gt;&lt;sup style=&quot;line-height: 23.76px&quot;&gt;ProtoBuf格式协议数据包&lt;/sup&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B85450;strokeColor=#5E2B29;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-396" y="584" width="156" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.807;entryY=-0.028;entryDx=0;entryDy=0;startArrow=classic;startFill=1;entryPerimeter=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-66" target="1h4kW-eVLY-6i_dEA7Pz-13">
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-66" target="1h4kW-eVLY-6i_dEA7Pz-60">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-66" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;本地录像文件夹&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=#455B7A;" vertex="1" parent="1">
-          <mxGeometry x="-765.36" y="430" width="162.86" height="60" as="geometry"/>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-66" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;本地录像文件夹&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="460" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-33" value="&lt;font color=&quot;#666666&quot;&gt;遍历本地录像文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="507" width="110" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-35" value="&lt;font color=&quot;#666666&quot;&gt;逐回合请求&lt;br&gt;录像数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-35" value="&lt;span style=&quot;color: rgb(102 , 102 , 102)&quot;&gt;上传/下载/&lt;/span&gt;&lt;br style=&quot;color: rgb(102 , 102 , 102)&quot;&gt;&lt;span style=&quot;color: rgb(102 , 102 , 102)&quot;&gt;播放录像&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-504" y="533" width="88" height="32" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-32" value="&lt;font color=&quot;#666666&quot;&gt;上传/下载/&lt;br&gt;播放录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-32" value="&lt;span style=&quot;color: rgb(102 , 102 , 102)&quot;&gt;逐回合请求&lt;/span&gt;&lt;br style=&quot;color: rgb(102 , 102 , 102)&quot;&gt;&lt;span style=&quot;color: rgb(102 , 102 , 102)&quot;&gt;录像数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-504" y="586" width="88" height="32" as="geometry"/>
         </mxCell>
-        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-76" value="&lt;font color=&quot;#666666&quot;&gt;保存录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="507" width="60" height="20" as="geometry"/>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-76" value="&lt;span style=&quot;color: rgb(102 , 102 , 102)&quot;&gt;遍历/保存录像文件&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-649" y="511" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-116" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-83" target="1h4kW-eVLY-6i_dEA7Pz-111">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-83" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;录像调试播放器&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6C8EBF;strokeColor=#455B7A;" vertex="1" parent="1">
+          <mxGeometry x="55.99999999999994" y="1172" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-85" target="1h4kW-eVLY-6i_dEA7Pz-86">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-120" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-85" target="1h4kW-eVLY-6i_dEA7Pz-111">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-85" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;网络模块&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="241.49999999999994" y="1447" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-158" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-86" target="1h4kW-eVLY-6i_dEA7Pz-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="432" y="1523"/>
+              <mxPoint x="432" y="1216"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-86" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;战斗模块&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="241.49999999999994" y="1503" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-87" value="&lt;font color=&quot;#666666&quot;&gt;录制/模拟数据包&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="248.99999999999994" y="1412" width="105" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-140" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-102" target="1h4kW-eVLY-6i_dEA7Pz-111">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-102" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-size: 16px&quot;&gt;排行榜录像&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;line-height: 150%&quot; size=&quot;1&quot; color=&quot;#ffcccc&quot;&gt;&lt;sup style=&quot;line-height: 198%&quot;&gt;ProtoBuf格式协议数据包&lt;/sup&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B85450;strokeColor=#5E2B29;" vertex="1" parent="1">
+          <mxGeometry x="442.9999999999999" y="1190" width="156" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-106" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;本地录像文件夹&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="241.49999999999994" y="942" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-108" value="&lt;font color=&quot;#666666&quot;&gt;逐回合请求&lt;br&gt;录像数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="467.9999999999999" y="1287" width="88" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-109" value="&lt;font color=&quot;#666666&quot;&gt;上传/下载/&lt;br&gt;播放录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="575.9999999999999" y="1260" width="88" height="32" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-111" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;录像管理器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242.34000000000006" y="1350" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-113" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-112" target="1h4kW-eVLY-6i_dEA7Pz-106">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-115" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-112" target="1h4kW-eVLY-6i_dEA7Pz-83">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-126" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-112" target="1h4kW-eVLY-6i_dEA7Pz-121">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-142" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-112" target="1h4kW-eVLY-6i_dEA7Pz-104">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-112" value="&lt;font style=&quot;font-size: 16px&quot; color=&quot;#ffffff&quot;&gt;录像文件管理器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242.34" y="1032" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-114" value="&lt;font color=&quot;#666666&quot;&gt;遍历/保存录像文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="251.50000000000003" y="996" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-117" value="&lt;font color=&quot;#666666&quot;&gt;播放录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="96" y="1287" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-118" value="&lt;font color=&quot;#666666&quot;&gt;获取列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1082" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-119" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;战斗文字播报器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242.34000000000006" y="1191" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-121" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;录像上传下载器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242.33999999999997" y="1128" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-123" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="1h4kW-eVLY-6i_dEA7Pz-122" target="1h4kW-eVLY-6i_dEA7Pz-111">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-122" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;战场包构建器&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242.34" y="1257" width="120" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-124" value="&lt;font color=&quot;#666666&quot;&gt;跳转回合动态构建回合战场包&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="215.43" y="1314" width="172.14" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-127" value="&lt;font color=&quot;#666666&quot;&gt;上传/下载录像&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="1094" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-129" value="&lt;font color=&quot;#666666&quot;&gt;战斗表演实时&lt;br&gt;生成文字播报&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="387.57" y="1432" width="86" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-143" value="&lt;font color=&quot;#666666&quot;&gt;获取列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="468" y="1069" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-163" value="&lt;font color=&quot;#666666&quot;&gt;获取列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-724" y="506" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="1h4kW-eVLY-6i_dEA7Pz-164" value="&lt;font color=&quot;#666666&quot;&gt;获取列表&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;shadow=1;comic=0;glass=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-468.00000000000006" y="470" width="60" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
