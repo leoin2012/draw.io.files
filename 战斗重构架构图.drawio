@@ -1,27 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T14:23:15.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" etag="9kuztnA8ICXSdQQT4cYT" version="12.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-13T14:24:49.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36" etag="YryxTQmpkMgWKOtRgDQR" version="12.8.4" type="github">
   <diagram id="-Knro7iIvr_-B3o6s4ao" name="第 1 页">
     <mxGraphModel dx="1422" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aUfQGK8bXhrhn-6a5ReO-54" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="40" y="430" width="540" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="aUfQGK8bXhrhn-6a5ReO-42" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="aUfQGK8bXhrhn-6a5ReO-54" vertex="1">
-          <mxGeometry width="540" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="aUfQGK8bXhrhn-6a5ReO-43" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 14px&quot;&gt;战斗录像&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="aUfQGK8bXhrhn-6a5ReO-54" vertex="1">
-          <mxGeometry x="144" y="18" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aUfQGK8bXhrhn-6a5ReO-47" value="&lt;font style=&quot;font-size: 14px&quot;&gt;模块管理器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="aUfQGK8bXhrhn-6a5ReO-54" vertex="1">
-          <mxGeometry x="16" y="18" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aUfQGK8bXhrhn-6a5ReO-48" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;战斗背包&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="aUfQGK8bXhrhn-6a5ReO-54" vertex="1">
-          <mxGeometry x="272" y="18" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aUfQGK8bXhrhn-6a5ReO-49" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 14px&quot;&gt;10+个业务模块&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="aUfQGK8bXhrhn-6a5ReO-54" vertex="1">
-          <mxGeometry x="400" y="18" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="aUfQGK8bXhrhn-6a5ReO-55" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="40" y="519" width="540" height="75" as="geometry" />
         </mxCell>
@@ -99,6 +81,24 @@
         </mxCell>
         <mxCell id="aUfQGK8bXhrhn-6a5ReO-63" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#666666&quot;&gt;流程控制强依赖PlayMaker库组件&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;comic=1;fillColor=none;position2=0.06;size=19;position=0.2;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="600" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d2UKsgdrf2lC5DLCF3ZL-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="430" width="540" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="d2UKsgdrf2lC5DLCF3ZL-2" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="d2UKsgdrf2lC5DLCF3ZL-1">
+          <mxGeometry width="540" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="d2UKsgdrf2lC5DLCF3ZL-3" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;模块管理器&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="d2UKsgdrf2lC5DLCF3ZL-1">
+          <mxGeometry x="16" y="17.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d2UKsgdrf2lC5DLCF3ZL-4" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 14px&quot;&gt;战斗录像&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="d2UKsgdrf2lC5DLCF3ZL-1">
+          <mxGeometry x="144" y="18" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d2UKsgdrf2lC5DLCF3ZL-5" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 14px&quot;&gt;10+个业务模块&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="d2UKsgdrf2lC5DLCF3ZL-1">
+          <mxGeometry x="400" y="18" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d2UKsgdrf2lC5DLCF3ZL-6" value="&lt;span style=&quot;text-align: left ; white-space: nowrap&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 14px&quot;&gt;战斗背包&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="d2UKsgdrf2lC5DLCF3ZL-1">
+          <mxGeometry x="272" y="18" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
